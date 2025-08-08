@@ -2,28 +2,47 @@
 {"dg-publish":true,"permalink":"/Public/Wishlist/2025/Wishlist 2025/","tags":["gardenEntry"]}
 ---
 
-###### Основные позиции
-[[Public/Wishlist/2025/ryumki\|🍻 Рюмки]] 🔐 
-[[Public/Wishlist/2025/Gym_Gloves\|🧤Перчатки в зал]] 🔐
-[[Public/Wishlist/2025/Tabi_boots\|🐄 Таби]] 
-[[Public/Wishlist/2025/DJ staff\|🎧 Диджей пульт]]
-[[Public/Wishlist/2025/Headphones\|🎧 Наушники]] 
-[[Public/Wishlist/2025/VirtualDJ\|💿 Лицензия VirtualDJ]] 
-[[Public/Wishlist/2025/Japan\|🇯🇵 Поездка в Японию]] 
-[[Public/Wishlist/2025/SSD\|💾 SSD]] 
-[[Public/Wishlist/2025/Speakers\|🔊 Колонки]] 
-[[Public/Wishlist/2025/Stands_for_speakers\|🔺 Подставки для колонок]]
-[[Public/Wishlist/2025/Perfume\|✨ Духи]] 
-[[Public/Wishlist/2025/Croptop\|👕 Кроп топ]] 
-[[Public/Wishlist/2025/Cap\|🧢 Кепка]] 
-[[Public/Wishlist/2025/Jewerly\|💍 Украшения]] 
-[[Public/Wishlist/2025/Shoes\|👟 Обувь]] 
-[[Public/Wishlist/2025/Mirror\|🪞 Зеркало в пол]] 🔐 
-[[Public/Wishlist/2025/House_staff\|🕯️ Мелочи для дома]] 
-[[Public/Wishlist/2025/Dishwasher\|🍽️ Посудомойка]] 
-[[Public/Wishlist/2025/Bag\|👜 Сумка]] 
-[[Public/Wishlist/2025/Flowers\|💐 Цветы]] 
-[[Public/Wishlist/2025/Coffee_turk\|☕ Турка]]
+> [!note] 🎧 Гаджеты и Техника
+>  - [[Public/Wishlist/2025/DJ staff\|🎧 Диджей пульт]]
+> - [[Public/Wishlist/2025/Headphones\|🎧 Наушники]]
+> - [[Public/Wishlist/2025/VirtualDJ\|💿 Лицензия VirtualDJ]]
+> - [[Public/Wishlist/2025/SSD\|💾 SSD]]
+> - [[Public/Wishlist/2025/Speakers\|🔊 Колонки]]
+> - [[Public/Wishlist/2025/Stands_for_speakers\|🔺 Подставки для колонок]]
+> - [[Public/Wishlist/2025/Dishwasher\|🍽️ Посудомойка]]
+> 
+{ .block-language-dataview}
+
+> [!note] 👕 Шмотки
+>  - [[Public/Wishlist/2025/Gym_Gloves\|🧤Перчатки в зал]]
+> - [[Public/Wishlist/2025/Tabi_boots\|🐄 Таби]]
+> - [[Public/Wishlist/2025/Croptop\|👕 Кроп топ]]
+> - [[Public/Wishlist/2025/Cap\|🧢 Кепка]]
+> - [[Public/Wishlist/2025/Jewerly\|💍 Украшения]]
+> - [[Public/Wishlist/2025/Shoes\|👟 Обувь]]
+> - [[Public/Wishlist/2025/Bag\|👜 Сумка]]
+> 
+{ .block-language-dataview}
+
+> [!note] 🛌 Дом и Быт
+>  - [[Public/Wishlist/2025/ryumki\|🍻 Рюмки]]
+> - [[Public/Wishlist/2025/Mirror\|🪞 Зеркало в пол]]
+> - [[Public/Wishlist/2025/House_staff\|🕯️ Мелочи для дома]]
+> - [[Public/Wishlist/2025/Flowers\|💐 Цветы]]
+> - [[Public/Wishlist/2025/Coffee_turk\|☕ Турка]]
+> 
+{ .block-language-dataview}
+
+> [!note] 🤡 Путь к моему сердцу
+>  - [[Public/Wishlist/2025/Japan\|🇯🇵 Поездка в Японию]]
+> - [[Public/Wishlist/2025/Perfume\|✨ Духи]]
+> 
+{ .block-language-dataview}
+
+> [!note] 💳 Финансы
+>  - [[Public/Wishlist/2025/Mastercard & Visa\|💳 Mastercard & Visa]]
+> 
+{ .block-language-dataview}
 
 А для всего остального есть [[Public/Wishlist/2025/Mastercard & Visa\|💳 Mastercard & Visa]]
 
@@ -38,4 +57,4 @@
 
 #slay - просто и со вкусом. Slay it gurl!
 
-#хобби - в данном листе этот тег в основном используется для маркировки вещей, которые мне помогут втянуться в диджеинг как хобби. 
+#хобби - в данном листе этот тег в основном используется для маркировки вещей, которые мне помогут втянуться в диджеинг как хобби.
