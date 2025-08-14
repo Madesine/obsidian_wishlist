@@ -10,7 +10,7 @@
 N/A
 
 > [!tip] Где купить?
-> [Farfetch](placeholder_link)
+> [Farfetch](https://www.farfetch.com/)
 
 > [!info] FYI
 > Это общая категория. Если есть сомнения, лучше спросить или подарить сертификат.

@@ -11,7 +11,7 @@ N/A
 (педовка или через плечико)
 
 > [!tip] Где купить?
-> [COS](placeholder_link)
+> [COS](https://www.cos.com/)
 
 > [!info] FYI
 > Объем сумки от 0.5 пива в жестянке.

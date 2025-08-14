@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Public/Wishlist/2025/Gym_Gloves/","title":"🧤Перчатки в зал","tags":["одежда","slay"]}
+{"dg-publish":true,"permalink":"/Public/Wishlist/2025/Gym_Gloves/","title":"🧤Перчатки в зал","tags":["одежда","slay","хобби"]}
 ---
 
 

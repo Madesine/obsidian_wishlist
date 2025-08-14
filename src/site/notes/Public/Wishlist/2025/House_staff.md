@@ -10,7 +10,7 @@
 N/A
 
 > [!tip] Где купить?
-> [Zara Home](placeholder_link)
+> [Zara Home](https://www.zarahome.com/)
 
 > [!info] FYI
 > Поле для фантазии! Главное, чтобы вещь была стильной и качественной.

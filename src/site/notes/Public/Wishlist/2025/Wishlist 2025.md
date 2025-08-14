@@ -2,45 +2,48 @@
 {"dg-publish":true,"permalink":"/Public/Wishlist/2025/Wishlist 2025/","tags":["gardenEntry"]}
 ---
 
-> [!note] 🎧 Гаджеты и Техника
->  - [[Public/Wishlist/2025/DJ staff\|🎧 Диджей пульт]]
-> - [[Public/Wishlist/2025/Headphones\|🎧 Наушники]]
-> - [[Public/Wishlist/2025/VirtualDJ\|💿 Лицензия VirtualDJ]]
-> - [[Public/Wishlist/2025/SSD\|💾 SSD]]
-> - [[Public/Wishlist/2025/Speakers\|🔊 Колонки]]
-> - [[Public/Wishlist/2025/Stands_for_speakers\|🔺 Подставки для колонок]]
-> - [[Public/Wishlist/2025/Dishwasher\|🍽️ Посудомойка]]
+### 🎧 Гаджеты и Техника
+> | Item ✨                                                                    | Priority 🔥 | Price 💰 | Status ✅  |
+> | ------------------------------------------------------------------------- | ----------- | -------- | --------- |
+> | [[Public/Wishlist/2025/VirtualDJ\|💿 Лицензия VirtualDJ]]              | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/DJ staff\|🎧 Диджей пульт]]                     | High        | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Headphones\|🎧 Наушники]]                       | High        | 0 PLN    | available |
+> | [[Public/Wishlist/2025/SSD\|💾 SSD]]                                   | High        | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Speakers\|🔊 Колонки]]                          | High        | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Stands_for_speakers\|🔺 Подставки для колонок]] | High        | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Dishwasher\|🍽️ Посудомойка]]                   | High        | 0 PLN    | available |
 > 
 { .block-language-dataview}
 
-> [!note] 👕 Шмотки
->  - [[Public/Wishlist/2025/Gym_Gloves\|🧤Перчатки в зал]]
-> - [[Public/Wishlist/2025/Tabi_boots\|🐄 Таби]]
-> - [[Public/Wishlist/2025/Croptop\|👕 Кроп топ]]
-> - [[Public/Wishlist/2025/Cap\|🧢 Кепка]]
-> - [[Public/Wishlist/2025/Jewerly\|💍 Украшения]]
-> - [[Public/Wishlist/2025/Shoes\|👟 Обувь]]
-> - [[Public/Wishlist/2025/Bag\|👜 Сумка]]
+### 👕 Шмотки
+> | Item ✨                                                   | Priority 🔥 | Price 💰 | Status ✅  |
+> | -------------------------------------------------------- | ----------- | -------- | --------- |
+> | [[Public/Wishlist/2025/Gym_Gloves\|🧤Перчатки в зал]] | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Cap\|🧢 Кепка]]                | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Jewerly\|💍 Украшения]]        | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Shoes\|👟 Обувь]]              | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Bag\|👜 Сумка]]                | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Croptop\|👕 Кроп топ]]         | Low         | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Coffee_turk\|👕 Кроп топ]]     | Low         | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Tabi_boots\|🐄 Таби]]          | High        | 0 PLN    | available |
 > 
 { .block-language-dataview}
 
-> [!note] 🛌 Дом и Быт
->  - [[Public/Wishlist/2025/ryumki\|🍻 Рюмки]]
-> - [[Public/Wishlist/2025/Mirror\|🪞 Зеркало в пол]]
-> - [[Public/Wishlist/2025/House_staff\|🕯️ Мелочи для дома]]
-> - [[Public/Wishlist/2025/Flowers\|💐 Цветы]]
-> - [[Public/Wishlist/2025/Coffee_turk\|☕ Турка]]
+### 🕯️ Дом и Быт
+> | Item ✨                                                       | Priority 🔥 | Price 💰 | Status ✅  |
+> | ------------------------------------------------------------ | ----------- | -------- | --------- |
+> | [[Public/Wishlist/2025/Mirror\|🪞 Зеркало в пол]]         | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Flowers\|💐 Цветы]]                | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/House_staff\|🕯️ Мелочи для дома]] | Low         | 0 PLN    | available |
+> | [[Public/Wishlist/2025/ryumki\|🍻 Рюмки]]                 | High        | 0 PLN    | available |
 > 
 { .block-language-dataview}
 
-> [!note] 🤡 Путь к моему сердцу
->  - [[Public/Wishlist/2025/Japan\|🇯🇵 Поездка в Японию]]
-> - [[Public/Wishlist/2025/Perfume\|✨ Духи]]
-> 
-{ .block-language-dataview}
-
-> [!note] 💳 Финансы
->  - [[Public/Wishlist/2025/Mastercard & Visa\|💳 Mastercard & Visa]]
+### 🤡 Путь к моему сердцу
+> | Item ✨                                                   | Priority 🔥 | Price 💰 | Status ✅  |
+> | -------------------------------------------------------- | ----------- | -------- | --------- |
+> | [[Public/Wishlist/2025/Japan\|🇯🇵 Поездка в Японию]] | High        | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Perfume\|✨ Духи]]              | High        | 0 PLN    | available |
 > 
 { .block-language-dataview}
 

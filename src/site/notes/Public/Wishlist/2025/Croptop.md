@@ -10,7 +10,7 @@
 N/A
 
 > [!tip] Где купить?
-> [ASOS](placeholder_link)
+> [ASOS](https://www.asos.com/)
 > [Любой модный магазин](placeholder_link)
 
 > [!info] FYI
