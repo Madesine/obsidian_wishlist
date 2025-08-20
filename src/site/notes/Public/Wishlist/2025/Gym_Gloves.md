@@ -10,7 +10,7 @@
 ![Pasted image 20250717151836.png](/img/user/Public/Wishlist/2025/attachments/Pasted%20image%2020250717151836.png)
 
 > [!tip] Где купить?
-> Любой маркетплейс
+> https://www.wildberries.by/catalog/157027351/detail.aspx?size=261782217
 
 > [!info] FYI
 > **Важно!** Перчатки должны иметь способность быть обмотанными вокруг моих нежных запястий как показано на референсе.

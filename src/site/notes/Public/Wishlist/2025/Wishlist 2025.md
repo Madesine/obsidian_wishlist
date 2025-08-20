@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Public/Wishlist/2025/Wishlist 2025/","tags":["gardenEntry"]}
 ---
 
+
 ### 🎧 Гаджеты и Техника
 
 > | Item ✨                                                                    | Priority 🔥 | Price 💰 | Status ✅  |
@@ -21,7 +22,7 @@
 > | -------------------------------------------------------- | ----------- | -------- | --------- |
 > | [[Public/Wishlist/2025/Bag\|👜 Сумка]]                | Medium      | 0 PLN    | available |
 > | [[Public/Wishlist/2025/Cap\|🧢 Кепка]]                | Medium      | 0 PLN    | available |
-> | [[Public/Wishlist/2025/Gym_Gloves\|🧤Перчатки в зал]] | Medium      | 0 PLN    | available |
+> | [[Public/Wishlist/2025/Gym_Gloves\|🧤Перчатки в зал]] | Medium      | ~40 BYN  | taken     |
 > | [[Public/Wishlist/2025/Jewerly\|💍 Украшения]]        | Medium      | 0 PLN    | available |
 > | [[Public/Wishlist/2025/Shoes\|👟 Обувь]]              | Medium      | 0 PLN    | available |
 > | [[Public/Wishlist/2025/Croptop\|👕 Кроп топ]]         | Low         | 0 PLN    | available |
@@ -31,12 +32,12 @@
 { .block-language-dataview}
 
 ### 🕯️ Дом и Быт
-> | Item ✨                                                       | Priority 🔥 | Price 💰 | Status ✅  |
-> | ------------------------------------------------------------ | ----------- | -------- | --------- |
-> | [[Public/Wishlist/2025/Flowers\|💐 Цветы]]                | Medium      | 0 PLN    | available |
-> | [[Public/Wishlist/2025/Mirror\|🪞 Зеркало в пол]]         | Medium      | 0 PLN    | available |
-> | [[Public/Wishlist/2025/House_staff\|🕯️ Мелочи для дома]] | Low         | 0 PLN    | available |
-> | [[Public/Wishlist/2025/ryumki\|🍻 Рюмки]]                 | High        | 0 PLN    | available |
+> | Item ✨                                                       | Priority 🔥 | Price 💰  | Status ✅  |
+> | ------------------------------------------------------------ | ----------- | --------- | --------- |
+> | [[Public/Wishlist/2025/Flowers\|💐 Цветы]]                | Medium      | 0 PLN     | available |
+> | [[Public/Wishlist/2025/Mirror\|🪞 Зеркало в пол]]         | Medium      | < 100 BYN | taken     |
+> | [[Public/Wishlist/2025/House_staff\|🕯️ Мелочи для дома]] | Low         | 0 PLN     | available |
+> | [[Public/Wishlist/2025/ryumki\|🍻 Рюмки]]                 | High        | < 100 BYN | taken     |
 > 
 { .block-language-dataview}
 
